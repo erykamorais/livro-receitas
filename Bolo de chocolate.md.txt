@@ -1,6 +1,6 @@
 # Bolo de Chocolate :cake: 
 
-##### **MASSA**
+#### **MASSA**
 
 3 ovos
 1 e 1/2 xícara (chá) de açúcar
@@ -13,7 +13,7 @@
 
 
 
-##### **MODO DE PREPARO**
+#### **MODO DE PREPARO**
 
 Em um liquidificador, bata os ovos, o açúcar, o óleo, o achocolatado e a farinha de trigo.
 
